@@ -14,7 +14,7 @@ permissions:
 
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: "soggy-bottom"
+  IMAGE_NAME: "breedx2/soggy-bottom"
 #   IMAGE_NAME: ${{ github.repository }}
 
 jobs:
